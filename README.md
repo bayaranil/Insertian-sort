@@ -23,6 +23,12 @@ n(n-1)/2 = n²-n/2
 
 # O(n²)
 
+# 3.Time Complexity
+•Average Case:Aradığımız sayının ortada olması
+
+•Worst Case:Aradığımız sayının sonda olması
+
+•Best Case:Aradığımız sayının dizinin en başında olması•A
 
 
 
