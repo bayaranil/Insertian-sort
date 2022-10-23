@@ -33,4 +33,21 @@ n(n-1)/2 = n²-n/2
 # 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 18 sayısı Average Case kapsamına girer. Çünkü aranan sayı dizinin ne başında ne de sonundadır.
 
+# [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız
+[7, 3, 5, 8, 2, 9, 4, 15, 6]  Main 
+
+[2, 3, 5, 8, 7, 9, 4, 15, 6]  Step 1
+
+[2, 3, 5, 8, 7, 9, 4, 15, 6]  Step 2
+
+[2, 3, 4, 8, 7, 9, 5, 15, 6]  Step 3
+
+[2, 3, 4, 5, 7, 9, 8, 15, 6]  Step 4
+
+
+
+
+
+
+
 
