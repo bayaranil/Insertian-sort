@@ -28,7 +28,7 @@ n(n-1)/2 = n²-n/2
 
 •Worst Case:Aradığımız sayının sonda olması
 
-•Best Case:Aradığımız sayının dizinin en başında olması•A
+•Best Case:Aradığımız sayının dizinin en başında olması
 
 # 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 18 sayısı Average Case kapsamına girer. Çünkü aranan sayı dizinin ne başında ne de sonundadır.
